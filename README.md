@@ -36,7 +36,7 @@ Feel free to reach out to me via the following platforms:
 
 - <a href="https://linkedin.com/in/christopherschlette"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 - **Email**: chris.1970@att.net
-- **GitHub**: https://github.com/yourprofile
+- **GitHub**: https://github.com/clschlette
 
 ## 🌱 Currently Learning
 
