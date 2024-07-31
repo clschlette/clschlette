@@ -26,12 +26,12 @@ My journey in business has led me to develop a passion for AI and machine learni
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+
 
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- 
+- 
 <!--
 **clschlette/clschlette** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
