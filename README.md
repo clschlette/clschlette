@@ -12,7 +12,8 @@ Welcome to my GitHub profile! I am an aspiring Prompt Engineer with a passion fo
 
 ## 🎓 Certification
 
-Vanderbilt University
+![image](https://github.com/user-attachments/assets/64577a5e-c3f7-4738-917c-0ba7317f85a1)
+
 
 I hold a certificate for Prompt Engineering authorized by Vanderbilt University and offered through Coursera. This certification has equipped me with the latest techniques and tools in AI and machine learning.
 
