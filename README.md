@@ -6,7 +6,7 @@ A past business owner and operator with a profound interest in technology and a 
 
 ## Objective
 
-My journey in business has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in business has led me to develop a passion for AI and machine learning. I am now eager to transition into this field, specifically aiming to join an organization as a prompt engineer.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
