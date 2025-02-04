@@ -20,8 +20,8 @@ I hold a certificate for Prompt Engineering authorized by Vanderbilt University 
 ## 🏆 Projects
 
 ### 1. - [Unit Converter Project](https://github.com/clschlette/PythonProject1)  
-![Project Image](path_to_project_image.jpg)
-**Description**: Brief overview of the project, the technologies used, and what you accomplished.
+![Image](https://github.com/user-attachments/assets/e89ecbf5-bccd-4225-9130-c3bb96a6e2a5)
+**Description**: This is a simple unit converter that converts kilometers to miles, fahrenheit to celsius, and inches to centimeters.
 
 ### 2. [Project Title](link_to_project)
 ![Project Image](path_to_project_image.jpg)
