@@ -19,7 +19,7 @@ I hold a certificate for Prompt Engineering authorized by Vanderbilt University 
 
 ## 🏆 Projects
 
-### 1. - [Unit Converter Project](https://github.com/YOUR_USERNAME/PythonProject1)  
+### 1. - [Unit Converter Project](https://github.com/clschlette/PythonProject1)  
 ![Project Image](path_to_project_image.jpg)
 **Description**: Brief overview of the project, the technologies used, and what you accomplished.
 
